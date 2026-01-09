@@ -6,6 +6,8 @@ Open a web browser on your windows computer and go to Bitdefender Central. Log i
 GET STARTED WITH BITDEFENDER
 ----------------------------
 
+`GET STARTED WITH BITDEFENDER <https://malwarebyteskb.helplook.com/>`_
+
 Access Your Subscription
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
