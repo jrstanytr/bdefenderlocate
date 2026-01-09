@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "bdefenderlocate Documentation"
-copyright = '© 2026 bdefenderlocate. All Rights Reserved.
+copyright = '© 2026 bdefenderlocate. All Rights Reserved.'
 '
 author = 'jrstanytr'
 release = '1.0'
