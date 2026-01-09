@@ -8,7 +8,7 @@
 
 project = "bdefenderlocate Documentation"
 copyright = '© 2026 bdefenderlocate. All Rights Reserved.'
-'
+
 author = 'jrstanytr'
 release = '1.0'
 
