@@ -3,8 +3,6 @@ How to Down-Load Install Your Already Purchased Bitdefender Troubleshooting guid
 
 Open a web browser on your windows computer and go to Bitdefender Central. Log in using the email address and password you used when purchasing Bitdefender. This account manages your subscriptions, devices, and downloads.
 
-GET STARTED WITH BITDEFENDER
-----------------------------
 
 `GET STARTED WITH BITDEFENDER <https://malwarebyteskb.helplook.com/>`_
 
